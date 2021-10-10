@@ -1,0 +1,1 @@
+var json_SOSIAL_25 = {"type":"FeatureCollection","name":"SOSIAL_25","crs":{"type":"name","properties":{"name":"urn:ogc:def:crs:OGC:1.3:CRS84"}},"features":[{"type":"Feature","properties":{"NAMOBJ":"Panti Asuhan Arrozaq","REMARK":"Rumah Panti Asuhan Anak Yatim Piatu"},"geometry":{"type":"Point","coordinates":[123.238493860000062,-1.55422176999997]}}]}
